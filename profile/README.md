@@ -2,15 +2,24 @@
   
 ![Backend_Intern__Spring_Boot___](https://github.com/user-attachments/assets/562ccce9-7c43-440a-b3d6-95e8adceeba7)
 
-![Java](https://img.shields.io/badge/Java-17-blue)
-![Spring Boot](https://img.shields.io/badge/Spring--Boot-3.4.1-green)
-![Spring Security](https://img.shields.io/badge/Security-Spring%20Boot-yellowgreen)
-![Spring Data JPA](https://img.shields.io/badge/JPA-Spring%20Boot-blue)
-![Swagger](https://img.shields.io/badge/Documentation-Swagger-lightgrey)
-![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)
-![Docker](https://img.shields.io/badge/Containerization-Docker-orange)
-![JUnit](https://img.shields.io/badge/Testing-JUnit-orange)
-![Mockito](https://img.shields.io/badge/Testing-Mockito-lightblue)
+[![Java Version](https://img.shields.io/badge/java-17-blue)](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
+[![Maven Version](https://img.shields.io/badge/maven-3.8.5-orange)](https://maven.apache.org/download.cgi)
+[![Spring Boot Version](https://img.shields.io/badge/spring--boot-2.7.7-green)](https://spring.io/projects/spring-boot)
+[![JPA](https://img.shields.io/badge/JPA-Spring%20Boot-blue)](https://spring.io/projects/spring-data-jpa)
+[![Security](https://img.shields.io/badge/Security-Spring%20Boot-yellowgreen)](https://spring.io/projects/spring-security)
+[![Validation](https://img.shields.io/badge/Validation-Spring%20Boot-brightgreen)](https://spring.io/projects/spring-framework)
+[![Web](https://img.shields.io/badge/Web-Spring%20Boot-orange)](https://spring.io/projects/spring-boot)
+[![DevTools](https://img.shields.io/badge/DevTools-Spring%20Boot-lightgrey)](https://spring.io/projects/spring-boot)
+[![H2 Database](https://img.shields.io/badge/Database-H2-blue)](https://www.h2database.com/)
+[![PostgreSQL](https://img.shields.io/badge/Database-PostgreSQL-blue)](https://www.postgresql.org/)
+[![Lombok](https://img.shields.io/badge/Utility-Lombok-red)](https://projectlombok.org/)
+[![JWT](https://img.shields.io/badge/JWT-io.jsonwebtoken-lightblue)](https://github.com/jwtk/jjwt)
+[![Mockito](https://img.shields.io/badge/Testing-Mockito-orange)](https://site.mockito.org/)
+[![JUnit](https://img.shields.io/badge/Testing-JUnit-orange)](https://junit.org/)
+[![Docker](https://img.shields.io/badge/Docker-20.10.12-blue)](https://www.docker.com/)
+[![Postman](https://img.shields.io/badge/Postman-10.16-orange)](https://www.postman.com/)
+[![Swagger](https://img.shields.io/badge/Swagger-OpenAPI%203.0-brightgreen)](https://swagger.io/)
+
 </div>
 
 Welcome to the official repository of the **AhdTech Backend Internship Program**! 🚀 This program is designed to equip interns with cutting-edge backend development skills using **Spring Boot** and modern technologies.
